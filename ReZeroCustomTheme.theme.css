@@ -2,7 +2,7 @@
 
 {} /* Background */
 .app {
-    background-image: url("https://i.imgur.com/XxZHWcf.gif");
+    background-image: url("http://i.imgur.com/yy3vfls.gifv");
     background-size: cover !important;
     background-position: center;
 }
@@ -2606,3 +2606,4 @@ div.control-group .shortcut-recorder input[type=text] {
     border-bottom: 1px solid #afafff;
     color: #CA5C5C;
 }
+ 
